@@ -22,7 +22,7 @@ Existing resources each make tradeoffs between speed, relevance, and trust:
     - Relevance ✅
     - Trust ✅
 
-We help bridge these gaps by either providing your users a direct interface for help or by enabling your advising and university teams to quickly search and generate answers using our flows, so they can best help students. We utilize OpenAI's Completion API, and fine tuning to curate 
+We help bridge these gaps by either providing your students a direct interface for help or by enabling your advising and university teams to quickly search and generate answers using our flows, so they can best help students. We utilize OpenAI's Completion API, and fine tuning to curate 
 responses and data to UW. 
 
 
