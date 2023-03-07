@@ -37,7 +37,7 @@ Next Steps:
 
 
 
-Goal:
+1 - Month Goal:
  - 350 Users on a waitlist by April 1st 
  - Apply to the Dempsey Pitch Competition by April 3rd
  - Possibly apply to YC Summer 2023 Batch
