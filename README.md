@@ -1,5 +1,10 @@
 # sarii.ai
-Sarii AI : ChatGPT for University Student Support 
+ChatGPT for University Student Support 
+
+sarii.ai represents a groundbreaking project that aims to transform and democratize the process by which University of Washington (UW) students gain access to crucial university information, including academic and personal guidance, course information, career opportunities, events, and more. Our platform leverages cutting-edge technologies such as generative AI and machine learning models, as well as state-of-the-art web application tools, to offer a personalized and seamless user experience that enables students to obtain accurate, reliable, and timely answers to all their questions and concerns.
+
+By incorporating UW's data and specific requirements, sarii.ai serves as a personalized and dynamic virtual assistant, providing students with quick and efficient solutions to their needs. Our innovative approach not only enhances the accessibility and usability of university information but also streamlines communication between students and university teams across the campus.
+
 
 Existing resources each make tradeoffs between speed, relevance, and trust:
 
@@ -22,24 +27,5 @@ Existing resources each make tradeoffs between speed, relevance, and trust:
     - Relevance ✅
     - Trust ✅
 
-We help bridge these gaps by either providing your students a direct interface for help or by enabling your advising and university teams to quickly search and generate answers using our flows, so they can best help students. We utilize OpenAI's Completion API, and fine tuning to curate 
-responses and data to UW. 
+We help bridge these gaps by either providing your students a direct interface for help or by enabling your advising and university teams to quickly search and generate answers using our flows, so they can best help students.
 
-
-Next Steps:
-- User Research (Collect 50 User Research Data Points)
-    - Learn about the prospective student experience from 10 prospective students
-    - Learn about the prospective parent experience from 10 prospective students
-    - Learn about the university advisor experience from 10 university advisors 
-    - Learn about the current student experience from 10 current students 
-    - 10 more data points!
-    - Put together a Business Model / Plan
-
-
-
-1 - Month Goal:
- - 350 Users on a waitlist by April 1st 
- - Apply to the Dempsey Pitch Competition by April 3rd
- - Possibly apply to YC Summer 2023 Batch
- - Apply to founders live pitch competiiton 
- - Look for other pitch competitions in the area
