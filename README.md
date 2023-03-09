@@ -21,8 +21,7 @@ Existing resources each make tradeoffs between speed, relevance, and trust:
     - Relevance (MEDIUM) bc sometimes they just dont have the time to know everything going on campus or can't share every single resource w every single student
     - Trust ✅’
     
-    EDSTEM: Relevant and trustworthy answers, but usually slow and also not every major has access to it
-    
+- EDStem: Relevant and trustworthy answers, but usually slow and also not every major has access to it  
     - Speed ❌
     - Relevance ✅
     - Trust ✅
