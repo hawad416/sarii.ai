@@ -21,5 +21,5 @@ mood.addEventListener("click", function (){
 
 const betaBtn = document.getElementById("beta-btn");
 betaBtn.addEventListener("click", function(){
-    location.href = "./pages/index.js"
+    location.href = "../index.html"
 })
