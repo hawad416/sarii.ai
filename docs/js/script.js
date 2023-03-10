@@ -1,3 +1,4 @@
+
 const header = document.getElementById("header");
 window.addEventListener("scroll", function () {
     if (scrollY > 50) {
@@ -16,4 +17,9 @@ mood.addEventListener("click", function (){
    } else {
        root.classList.add("dark")
    }
+})
+
+const betaBtn = document.getElementById("beta-btn");
+betaBtn.addEventListener("click", function(){
+    location.href = "./pages/index.js"
 })

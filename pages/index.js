@@ -35,11 +35,11 @@ export default function Home() {
     <div>
       <Head>
         <title>Univeresity of Washington AMA Chatbot</title>
-        <link rel="icon" href="/uw.png" />
+        <link rel="icon" href="uw.png" />
       </Head>
 
       <main className={styles.main}>
-        <img src="/uw.png" className={styles.icon} />
+        <img src="uw.png" className={styles.icon} />
         <h3>Univeresity of Washington AMA Chatbot</h3>
         <form onSubmit={onSubmit}>
           <input
