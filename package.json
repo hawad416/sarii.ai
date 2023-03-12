@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "homepage": "https://hawad416.github.io/sarii.ai",
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "next": "^13.1.1",
     "openai": "^3.1.0",
     "react": "^18.2.0",
