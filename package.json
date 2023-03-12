@@ -5,6 +5,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
+    "export": "next export",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
