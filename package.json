@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start"
   },
+  "homepage": "https://hawad416.github.io/sarii.ai",
   "dependencies": {
     "next": "^13.1.1",
     "openai": "^3.1.0",
