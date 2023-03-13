@@ -6,7 +6,7 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-@app.route('/home/')
+@app.route('/home/data')
 def get_data():
     # your Python code to retrieve data goes here
     data = {'response': ask_ai()}

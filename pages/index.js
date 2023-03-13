@@ -12,7 +12,7 @@ export default function Home() {
       .then(response => response.json())
       .then(data2 => setData2(data))
       .catch(error => console.error(error));
-  }, []);
+  }, [])
 
 
   async function onSubmit(event) {
