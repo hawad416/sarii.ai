@@ -1,0 +1,124 @@
+Below are answers to some of the most commonly asked questions about the BS/MS program.
+
+Eligibility
+Applying
+The Admissions Process
+Planning for the Program
+Curriculum
+Outside the Classroom
+Beyond the BS/MS Program
+
+Eligibility
+Can I apply after graduating with my bachelor's degree from CSE? When do I need to begin the MS portion of the program?
+No, you must apply to the program while you are still an undergraduate student. Admitted BS/MS students must begin the master's degree within one year of earning their BS. Students who plan to take a job immediately after graduating may consider our Professional Master's Program in the future.
+I have only one required 300-level CSE course left to complete, and I'm thinking about taking a different course instead. Can I still apply, and will that hurt my application?
+While we would really like to see all of your required 300-level courses, we understand that sometimes exceptions make sense. If you are reaching the appropriate time to apply to the program (1 year before your graduation) and you may not have your 300-level courses completed for any reason, we'd encourage you to check in with us to talk about why, and how that could impact your application.
+Can undergrads not majoring in CSE apply?
+No. The master's curriculum is designed to overlap with the undergraduate CSE curriculum, so only current CS or CE majors may apply. Undergrads in other departments may be interested in our courses for non-majors.
+The Application
+I'm having technical issues with the application!
+Email advising with any technical issues. If you need to include comments or additional info in your application, please include those at the end of your personal statement.
+Is there an application fee?
+There is no fee for students completing the initial CSE BS/MS application.
+Students admitted to the BS/MS program must complete the UW Grad School application and pay a an application fee as well as an enrollment fee once you become a grad student (due before tuition).
+Should we list non-CSE-related jobs in our work history?
+You may list jobs and experiences that seems unrelated. However, CSE-related experiences will typically have a more significant impact on your application and be the most helpful for the Admissions committee to review.
+Can I submit letters of recommendation?
+No. Instead of letters of recommendation, we ask applicants to list two CSE faculty references. Faculty will submit feedback through the online application. One recommender may be from outside of the Allen School.
+How can I make sure faculty give me a good reference?
+Select faculty who know you well: professors in whose classes you performed well, people with whom you interacted often, and people who can speak specifically about your work. Working on research with a professor is a good way to form this relationship with a faculty member. If you are unsure whether professors will provide a positive recommendation, you could ask them something like, "Do you feel you know me and my work well enough to provide a positive reference for the BS/MS application?"
+ 
+The Admissions Review Process
+How can I be a competitive applicant?
+Admission is competitive; we have space for only a small number of students, and the applicant pool is very strong. We will need to deny many well-qualified applicants. Admitted students will be academically competitive, present a well-written and compelling personal statement, and provide highly favorable faculty references.
+How many students will be admitted per year?
+The program is currently admitting around 50-60 students per year.
+Planning for the Program
+Can I attend the BS/MS program part-time? 
+We realize some students may take an extra quarter to finish program requirements, but the BS/MS is not meant as a part-time program. If you're admitted to the program then have a change of circumstance that prevents full-time enrollment, please talk with an advisor.
+Will I be able to use Federal Student Aid towards grad school?
+Read this link for information on financial aid and graduate school.
+I hear BS/MS students are encouraged to TA and would be paid at the graduate pay rate. Do you know what that is?
+Please check the Outside the Classroom FAQs about being a TA.
+How much is tuition?
+BS/MS students pay tier III grad student tuition. Please check the current rates. Tuition increases annually.
+Curriculum
+I have loads of questions. Who's my advisor?
+Maggie Morris the the senior BS/MS adviser and the faculty advisor for the program is Richard Anderson.
+What classes will I take as a grad student? 
+Courses available to each student vary by quarter and individual preparation. You'll select most classes from these areas:
+Master's courses in our PhD program (called "breadth" courses)
+Professional Master's Program courses (generally max of 2 PMP courses during BSMS program)
+Master's versions of undergrad courses (Called "CSE M" on the time/teaching schedule
+400-level courses that are approved as Core Courses
+Courses that fulfill one of the "check-box" requirements such as a capstone
+Courses in each of these areas are listed on the CSE Quarterly Time Schedules. For details on requirements, read the degree requirements page.
+Advisers will send course suggestions and keep you up-to-date on new offerings. However, a number of variables make it impossible to compile a comprehensive list of courses that will work for all BS/MS students: some grad courses may only be appropriate if you've taken an undergrad course in the area; some may be appropriate only if you haven't taken the undergrad version because they will be too similar; some PMP courses may assume extensive professional experience. We also want to help students plan manageable schedules, and new grads may not realize the workload of some grad classes. We'll meet with you individually to plan your classes.
+Can I get more info on the 'breadth' courses? 
+Breadth courses are Ph.D.-track master's courses (highlighted on the CSE teaching schedule). Many of these will be appropriate for BS/MS students, but the workload will likely be significantly greater than your 400-level CSE courses. Most Ph.D.-track grad students take one or two breadth courses each quarter (with no other courses). Even if you're a super strong and motivated student who successfully took three upper-division CSE courses concurrently, you should not plan for more than one, possibly two, breadth courses each quarter. We'll talk to each of you individually about specific courses and schedules.
+What's the Planning Worksheet? 
+One requirement of the program is an individualized plan for each student. We'll meet with you before you begin the program to talk about your interests and options and to outline a tentative plan of courses. If your interests change, we can adjust this later. Remember to watch your inbox for the deadlines by which new students should submit this plan.
+What are the 590 research seminars? Should I take one of these or attend the colloquia?
+Most of the CSE research areas have a 590 seminar each quarter. In these seminars, grad students read and present on recent academic articles relevant to the research area. You get one credit for each 590 seminar you take. You also get one credit for enrolling in CSE 519 or 520 and attending CSE colloquia. As listed on the degree requirements page, you need four credits of research seminars or colloquia, so you should plan to take one seminar and/or attend the colloquia each quarter, for a total of four credits.
+What are the rules around taking CSE 519/520 Colloquia?
+These courses refer to the talks that happen in the department. Regardless of which one you sign up for, the expectation is that you will attend 8 total talks throughout the quarter. This is on the honor system, so there is no sign in sheet or check on these courses, you just acknowledge that will attend 8 talks. We strongly encourage you to attend the Distinguished Lecture Series talks as part of your 519/520 credit. If there are not enough talks scheduled in the quarter to reach 9, please find old talks on the Allen School YouTube channel.
+Outside the Classroom
+How does research fit into my degree requirements?
+Some BS/MS students may participate in research, for credit towards your degree and sometimes also paid as an official RA (Research Assistant). The degree requirements page shows how research can apply to your graduate requirements. If you're interested in research, you should contact faculty directly to discuss your interests and see what work they may have available. If you or your potential research advisor has questions about how research can work as part of your masters' degree, contact an undergrad advisor or the program faculty advisor. Please note that if you count any CSE 600 level credits towards your masters' degree, you need to have a substantial thesis at the culmination of the project. (This report should be similar in size and scope to the Honors thesis for ugrads).  You need to be registered for 10 credits per quarter if you are on an RA appointment.
+ 
+What does the Research Thesis look like? 
+Students may use up to 12 research credits of CSE 600 towards their MS degree. Students must complete a thesis in order for these credits to count as degree requirements (of the 12 credits, 4 can substitute a 500 level course, 8 can replace 400 level courses).
+ 
+Minimum Requirements
+The thesis is required to use a standard thesis format (e.g., single column, double spaced). The Latex UW Thesis Format (uwthesis.cls) is recommended.  Why is it interesting? (Why should someone care about it?)
+The minimum length is 20 pages (assuming a double spaced format). This seems to work out at about 6000 words.
+The introduction to the thesis should make it accessible to someone with an undergraduate education in Computer Science.
+The thesis is due on the last day of finals of the quarter you are graduating. You submit this through your MyCSE portal. Then, please notify your faculty supervisor that you have submitted so they can go in and approve it.
+ 
+Additional Guidelines
+Before beginning your research, check with your CSE faculty supervisor for any additional expectations and/or examples they may have. This isn't one size fits all.  E.g., theory-oriented work may have a proof rather than experimental results.
+Below are components most theses should include:
+Introduction
+  What is the topic?
+  Why is it interesting? (Why should someone care about it?)
+  What are your contributions?
+  Lay out organization of the rest of the document
+ 
+Related work
+  Discuss related work, place it in the appropriate literature with citations
+  Describe what problems they solve, and in what sense they
+    haven't already solve your problem
+ 
+Technical sections (title of and number of sections will vary)
+  Here you go into the technical details of what you did
+ 
+Results
+  Talk about experiments you ran, how you ran them
+  Give details, e.g., about sizes of datasets, run-times,
+    performance in terms of speed, accuracy, or whatever metric applies
+ 
+Discussion and future work
+  What conclusions can you draw?
+  What are the trade-offs?
+  Lessons learned: insights about what works and what doesn't
+  What are potentially fruitful/interesting avenues of future work
+ 
+References
+  Citations referenced in the body of the document.
+ 
+Can I be a TA?
+TA positions may be available for some BS/MS students and would be paid at the graduate pay rate (full tuition, plus a stipend). TA's and RA's must be registered for ten credits.
+Can I fund my year of masters courses as a TA?
+BS/MS students who get a TA position will be paid the graduate TA rate; this includes a monthly salary, plus full tuition, for 20 hours of work per week. Graduate TA rates take effect once you're officially coded as a graduate student; admitted students who are still undergrads still earn the standard undergrad TA rate. Due to budget restrictions, we do not expect to be able to offer TA positions to all interested BS/MS students. You may apply to TA, but please prepare a back-up plan for paying the full tuition for the program. Keep in mind that if you do not TA, you'll likely be able to finish the program more quickly, spending less on tuition and earning a salary sooner.
+Where do BS/MS students fit in with other CSE students? Should I stop hanging out with undergrads? Can I attend events for Ph.D. students?
+We hope BS/MS students will continue to be active in the CSE community. Some career- or research-related undergrad events may be appropriate, and BS/MS students are invited to the graduate TGIF happy-hour events each Friday (usually in the atrium; look for email announcements).
+We expect that BS/MS students will likely form their own social circle as well since you occupy a unique position in the department. Welcome events for BS/MS students should help you meet your BS/MS peers. If you have ideas for other BS/MS events, let advisors know.
+Beyond the BS/MS
+How much of a salary boost will a master's give me?
+Your salary prospects depend on your individual qualifications. However, it's reasonable to expect that an extra year of advanced coursework, professional networking, and (for some) research, plus an additional summer for one more internship, will give students a boost in salary and job prospects.
+
+Can I go to a Ph.D. program after the combined BS/MS?
+Competitiveness for Ph.D. programs depends on many factors, but it's reasonable to expect that an extra year of advanced coursework, networking with faculty, and research opportunities would benefit students in applying to Ph.D. programs. However, we encourage strong students who know they want a Ph.D. to apply directly to Ph.D. programs. If you're uncertain of you interests, contact a CSE adviser or the program faculty adviser. Our grad adviser and other faculty could also give insight into your options or your particular area of interest. 
+
+Questions or concerns?
+Please contact the BS/MS Advising Team if you have any questions or concerns not addressed on this page.

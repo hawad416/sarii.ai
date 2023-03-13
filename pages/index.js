@@ -1,10 +1,19 @@
 import Head from "next/head";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import styles from "./index.module.css";
 
 export default function Home() {
   const [animalInput, setAnimalInput] = useState("");
   const [result, setResult] = useState();
+  const [data2, setData2] = useState();
+
+  useEffect(() => {
+    fetch('/api/apiRoute')
+      .then(response => response.json())
+      .then(data2 => setData2(data))
+      .catch(error => console.error(error));
+  }, []);
+
 
   async function onSubmit(event) {
     event.preventDefault();
@@ -16,6 +25,7 @@ export default function Home() {
         },
         body: JSON.stringify({ animal: animalInput }),
       });
+
 
       const data = await response.json();
       if (response.status !== 200) {
@@ -41,6 +51,7 @@ export default function Home() {
       <main className={styles.main}>
         <img src="uw.png" className={styles.icon} />
         <h3>Univeresity of Washington AMA Chatbot</h3>
+        <h2>hi {data2}</h2>
         <form onSubmit={onSubmit}>
           <input
             type="text"

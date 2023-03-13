@@ -1,7 +1,8 @@
 import { Configuration, OpenAIApi } from "openai";
+import handler from "./apiRoute";
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 

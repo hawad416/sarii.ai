@@ -1,0 +1,247 @@
+CSE Teaching Schedule 2022-2023
+
+2022-2023	Autumn	Winter	Spring	Title			
+100	 	 	 	 			
+110	 	 	 	Principles of CS	(renumbered from 120)	
+121	Wortzman / Garza	Garza / Garza	Natsuhara	Intro Programming I			
+122	Schafer / Natsuhara	Natsuhara / Natsuhara	Huber&Schafer	Intro Programming II	spring is one large section
+123	 	Wortzman / Champion	Wortzman / Wortzman	Intro Programming III			
+143	Reges	Reges	Reges	Old Intro Programming II			Required
+143X	 	 	 	Old Intro Programming Accelerate			Required/Core
+154	Wolman		Wolman	Web Programming			Core
+160	Ru. Anderson	Fitz Gibbon	Fitz Gibbon	Data Programming			Capstone
+163	 	Schafer	K. Lin	Intermediate Data Programming			Seminar
+180	INFO	 	Maas	Introduction to Data Science			
+190B	Grossman	 	 	Direct-Admit Seminar			instructor is from that program (ECE, STAT, INFO, ...)
+190Y	Bricker / Ibrahim	Bricker / Sobel	Bricker / Sobel	Startup			for a cross-listed course
+190Z	Bricker	Bricker / Sobel	Bricker / Sobel	STARS			
+390HA	Schafer	Natsuhara	x	122 Honors Seminar			x: course will be offered, instructor announced later
+390HB	 	Schafer	Natsuhara	123 Honors Seminar			x?: course may be offered
+200-300 Majors	 	 	 			
+EE205	 	ECE	 	Signal Conditioning			
+301	Browning	Browning	Browning	Internship Credit			
+311	Zatloukal / Zatloukal	Weber	Beame / Wilcox	Foundations I			
+312	Beame	Karlin / Karlin	Weber / Weber	Foundations II	Winter is one double-section, Spring is two sections
+331	Wilcox	Perkins / Perkins	Zatloukal / Zatloukal	Software Design and Implementat			
+332	Ri. Anderson	Ru. Anderson / Ru. Anderson	Ru. Anderson	Data Structures and Parallelism			
+333	Perkins	Hsia / Hsia	Thachuk	Systems Programming			
+340	 	Bricker	Bricker	Interaction Programming			
+341	Tatlock	Grossman	Grossman	Languages			
+344	Tang	Maas	Tang	Intro to Data Management			
+351	Hsia / Hsia	Wolfson	Garza / Garza	The Hardware/Software Interface			
+369	 	Thachuk	Hsia	Digital Logic			
+371	ECE	ECE	Hsia	Advanced Logic			
+390B	Fan	Fan	Fan	Academic Skill Building Through			
+390Z	Agarwal	Agarwal	Agarwal	Mathematics for Computation Wor			
+391	Ru. Anderson	Ru. Anderson	Ru. Anderson	Unix Tools			
+400 Majors, Non-Capstones	 	 	 			
+401	Perkins	 	Perkins	Compilers (joint with M501)			
+402	 	 	 	Domain Specific Languages (joint			
+403	 	Just	Oliveira	Software Engineering			
+421	Weber	Weber	A. Rao	Algorithms			
+422	 	 	J. Lee	Toolkit for Modern Algorithms			
+426	 	R. Lin	 	Cryptography (formerly 490C)	number may not be in place in time
+427	 	Mostafavi	 	Computational Biology			
+431	 	A. Rao	 	Complexity			
+440	Zhang	Fogarty	Ichikawa	HCI			
+442	Battle	Battle	 	Visualization			
+444	 	Leang	Maas	Databases (joint with M544)			
+446	Morgenstern/Schmidt	Morgenstern	Du/Jamieson	Machine Learning	Fall and Spring are joint with 546, Spring will be MWF	
+447	Tsvetkov	Serrano	 	NLP (*might* be joint with 517 in			
+451	T. Anderson & Jialin Li	Kimura	 	OS			
+452	 	Wilcox	T. Anderson	Distributed Systems			
+453	Peter	 	 	Data Center Systems			
+455	 	Redmon	Redmon	Computer Vision			
+456	 	 	 	Story Design for Animation			
+457	Popovic	 	Seitz	Graphics			
+458	Mones	 	 	Animation			
+459	 	 	 	Character Animation			
+461	Gollakota	Heimerl	Mahajan	Networks			
+464	 	 	Mones	Adv Topics in Animation			
+469	ECE	Oskin	ECE	Computer Architecture I			
+470	 	 	Oskin	Computer Architecture II			
+473	Zettlemoyer	Shapiro	Tanimoto	AI			
+474	ECE	ECE	Iyer	Embedded SW			
+478	 	Boots	Srinivasa	Autonomous Robots			
+484	Roesner	Kohno	Kohlbrenner	Security (joint with M584)			
+486	Seelig	 	 	Intro to Synthetic Biology (joint wit	joint with EE423, BIOE423
+487	 	 	CHEME	Advanced Synthetic Biology			
+490	Schulz	 	 	Computational Design and Fabric	more info: https://tinyurl.com/UWCSE-COMPFAB
+490	Moore	 	Moore	Philosophy of AI	more info & registration: tinyurl.com/UWCSE-PHIL-OF-AI
+493	Redmon	 	Krishna	Deep Learning	more info: https://tinyurl.com/UWCSE-DEEPLEARNING; used 490 number in Fall
+490A	 	Gottesman & Lazowska	 	Entrepreneuship: Company-Buildi	hope to renumber as 489
+493Q	 	 	Coladangelo	Quantum Computation			
+493S	 	 	Schmidt	Advanced Machine Learning	joint with CSE 599	
+493V	 	 	Lanman	Virtual-Reality Systems			
+493W	 	 	J. Smith	Wireless Communication			
+493X	 	 	Wilcox	Web Browser Engineering			
+490	 	 	 	Physical Computing			
+490N	ECE/BIOE	 	 	Neural Engineering	more info: https://tinyurl.com/UWCSE-NEURALENG
+490	 	 	 	ICTD			
+490J	 	 	 	Animation: (topic varies by quarter			
+390R	Cakmak	 	 	Intro to CSE Research 			
+480	Grossman & Moore	Moore	Moore	Computer Ethics (2 cr. Seminar)			
+492J	 	K. Nguyen / Champion	K. Nguyen / Champion	Career Seminar	not offered in Fall	
+492L	 	Lazowska & Grossman	 	Alumni Career Experience Semin			
+492P1	 	 	 	Patterns for Career Success	had to cancel for instructor personal reasons; intend to return in 2024
+492C	 	 	Fetsch	Navigating Early-Career Challeng			
+492R	 	Cakmak	Cakmak	CSE Group Research			
+492T	K. Lin	 	 	CS Pedagogy (2 cr. Seminar, instr			
+492	 	 	Kirdani-Ryan	Deconstructing Cultural Norms in			
+495	Caspi	Caspi	 	Project Practicum			
+Capstones	 	 	 	 			
+428	 	 	S. Wang	Comp Bio Capstone			
+441	 	 	 	HCI II			
+454	 	 	 	Internet Systems			
+460	 	Mones	 	Animation Capstone			
+475	Patel	ECE	ECE	HW Systems			
+481	Althoff	 	 	Data Science Capstone			
+481D	 	Haduong	 	Games Capstone			
+481SEC	 	Roesner	 	Security Capstone			
+481V	 	Kemelmacher	 	Virtual Reality Capstone			
+481	 	 	Zhang	Social Computing			
+481C	 	 	Cakmak	Robotics Capstone			
+481NLP	 	 	N. Smith	NLP capstone			
+481SYS	 	 	Peter	OS Capstone		
+481	 	 	Gollakota	Mobile			
+481	 	 	 	HCI Capstone			
+481	 	 	 	Neural Engineering Capstone			
+482K	 	 	Ri. Anderson	Tech for Resource-Constrained En			
+482	 	 	 	Community Networking Capstone			
+482A	 	 	 	Accessibility Capstone			
+300-400 Non-Majors	 	 	 			
+373	K. Lin	K. Lin	Champion	Data Structures			
+374	Hazen	Fetsch	Hazen	Intermediate Programming Conce			
+390	 	Reges	 	C++ Programming			
+410	 	 	 	OS/Arch			
+412	 	 	Froehlich	Visualization			
+413		 	Perkins	Languages			
+414	Maas/Maas	Maas	Leang	Database Systems			
+415	Tanimoto	Tanimoto		AI			
+416	 	STAT	Schafer	ML			
+417	Weber	Ri. Anderson	 	Theory			
+5th Year MS	 	 	 	 			
+M 501	Perkins	 	Perkins	Compilers (joint with 401)			
+M 502	 	 	 	Domain Specific Languages (joint			
+M 544	 	Leang	Maas	Databases (joint with 444)			
+M 547	Tsvetkov	(take 517 instead)	 	NLP (joint with 447)			
+M 552	 	Wilcox	T. Anderson	Distributed Systems (joint with 452)			
+M 553	Peter	 	 	Data Centers			
+M 584	Roesner	Kohno	Kohlbrenner	Security (joint with 484)			
+599	Redmon	 	Krishna	Deep Learning (joint with 490G1)			
+Breadth	 	 	 	 			
+501	 	 	 	Compilers			
+503	Ernst	 	 	SE			
+505	 	Tatlock	 	Programming Languages			
+507	 	 	 	Computer-Aided Reasoning for So			
+510	Fogarty	 	 	HCI			
+512	 	 	Heer	Visualization			
+515	 	 	 	Statistical Methods			
+517		N. Smith	 	NLP	not joint with 447 this year
+521	Oveis Gharan	 	 	Algorithms			
+525	 	 	Oveis Gharan	Random Algorithms			
+526		 	Tessaro	Cryptography			
+527	S. Lee	 	 	Comp Bio			
+529	 	 	Mostafavi	Computational Genomics		
+531	 	 	 	Complexity I			
+535	 	 	 	Theory of Convex Optimization			
+541	 		 	Interactive Learning			
+542	 	 	 	Reenforcement Learning			
+543	 	Du	 	Deep Learning			
+544	 	 	 	Databases			
+546	Morgenstern/Schmidt	 	Du/Jamieson	Machine Learning			
+547	 	Althoff		Machine Learning for Big Data			
+548	Oskin	 	 	Architecture			
+550	Mahajan	 	 	Systems for all			
+551	 	 	 	OS			
+552		 	 	Distributed Systems			
+556	 	Schulz	 	Computational Fabrication			
+557	 	 	Bernstein	Graphics			
+561	 	 	 	Networks			
+562	 	 	 	Mobile & Wireless Systems			
+564	Kohno	 	 	Security			
+567	 	Taylor	 	Digital Systems Design			
+571	 	 	Gupta	Robotics			
+573	 	Hajishirzi	 	AI			
+576	 	 	Shapiro	Computer Vision			
+580	 	 	Heimerl	Computing for Social Good			
+581	 	 	 	Computer Ethics			
+582	 	 	Tsvetkov	Ethics in AI			
+Other Grad	 	 	 	 			
+590	 	 	Karlin/Ernst	First-Year Seminar			
+590	 	 	Karlin/Ernst	Post-Quals Seminar			
+522	 	 	 	Algorithms II			
+528	R. Rao	 	 	Computational Neuroscience			
+532	 	 	 	Complexity Theory			
+549	 	 	Taylor	High-Performance Computer Archi			
+579	Boots	 	 	Optimal Control			
+586	Seelig	 	 	Synthetic Biology (joint with 486)			
+599	Iyer	 	 	Ubiquitous Computing			
+599	Heer	 	 	The Future of Scholarly Communi			
+599	J. Lee	 	 	Quantum Computing			
+599	Tessaro	 	 	TBD			
+599	Heimerl	 	 	Computing for Conservation			
+599	 	Choi	 	TBD			
+599	 	J. Lee	 	TBD			
+599	 	Gupta	 	Deep Robotic Learning			
+599	 	Krishna	 	TBD			
+599	 	Rothvoss	 	TBD			
+599	 	Golub	 	Deep Learning for Neuroscience			
+599	 	 	 	Research Methods	no longer available this year
+599	 	 	Ceze	ML for Systems for ML 			
+599	 	 	S. Lee	Explainable AI			
+599S	 	 	Schmidt	Advanced Machine Learning	joint with CSE 493	
+599	 	 	Mankoff	Accessibility			
+599A1	 	Gottesman & Lazowska	 	Entrepreneurship: Company-Buildi	hope to renumber 589	
+PMP	 	 	 	 			
+P501	 	 	 	Compilers			
+P503	 	 	 	Software Engineering			
+P504	Just	 	 	State of the Art Testing and Debug	official catalog title: Advanced Topics in Software Systems
+P505	 	Wilcox	 	Programming Languages			
+P510	 	 	 	HCI			
+P517	 	 	 	NLP			
+P521	A. Rao	 	 	Algorithms			
+P527	 	 	 	Computational Biology			
+P531	 	 	 	Complexity			
+P524	 	 	 	Parallel Computing			
+P544	 	 	 	Databases			
+P546	 	Jamieson	 	Data Mining / Machine Learning			
+P548	 	 		Computer Architecture			
+P551	 	 	 	Operating Systems			
+P552	 	 	 	Distributed Systems			
+P561	 	 	 	Networks			
+P557	 	Popovic	 	Graphics			
+P564	Kohlbrenner	 	 	Security			
+P573	 	 	 	Artificial Intelligence			
+P576	 	 	 	Vision			
+P590A	 	Gottesman & Lazowska	 	Entrepreneurship: Company-Buildi	hope to renumber P589	
+P590	S. Wang	 	 	AI for Medicine			
+P590	 	Mankoff	 	Accessibility			
+P590	 	 	R. Rao	Neural Computation and Engineer			
+P590	 	 	R. Lin	Cryptography	hope to renumber	
+P590	 	 	Fox	Robotics			
+P590	 	 	Gavrilescu	Enterprise Chatbots			
+P590	 	 	 	Security Engineering			
+P590	 	 	 	Machine Learning for Big Data			
+P590	 	 	 	Explainable AI			
+P590	 	 	 	Performance Engineering			
+P590	 	 	 	Ubiquitous Computing			
+P590	 	 	 	ICTD			
+P590	 	 	 	Full Stack Deep Learning			
+P590	 	 	 	Doman Specific Languages			
+Service Grad	 	 	 			
+583	Beck	 	 	SE for Data Scientists			
+EDTEP 590	 	 	Wortzman	Teaching Computer Science in Se			
+GIX	 	 	 	 			
+TECHIN510	 	 	 	Programming for Digital and Physi			
+TECHIN516	 	 	 	Robotics Lab 1: Robotic Sensing a			
+TECHIN517	 	 	 	Robotics Lab 2: Robotic Manipulat			
+TECHIN540	 	 	 	Launch Project			
+Data PMP	 	 	 	 			
+D514	 	 	Tufte	Data Management for Data Scienc			
+D515	 	Winstanley	 	Software Design for Data Science			
+D516	Khuu	 	 	Scalable Data Systems and Algorit			
+HCID	 	 	 	 			
+520	 	 	 	 			
+521	 	Froehlich	 	 			
+ 	 	 	 	 			

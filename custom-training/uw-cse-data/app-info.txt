@@ -1,0 +1,32 @@
+You may apply to the BS/MS program at different points in your undergraduate studies. Most students apply at the end of their junior years after completing all required 300-level CSE courses, or when they have roughly one year left in their undergraduate studies. A small number apply later, while finishing senior-level requirements. However, all students must begin graduate coursework within one year of receiving their bachelor's degrees. If you are unsure when to apply, please contact a CSE adviser.
+
+Eligibility
+The following are the minimum requirements for applying to the Allen School's Combined Bachelor's/Master's program:
+
+You are a current Allen School CS or CE undergraduate major. Students who have already graduated are ineligible to apply.
+You have junior standing or beyond (90 or more credits).
+Your GPA is 3.0 or higher.
+You have completed all required 300-level CSE courses (311, 312, 332, 351 are the most important. If you are missing a course you still may be eligible to apply and can contact BS/MS advising to understand your options.)
+Competitive applicants will exceed these minimums, typically showing higher grades, CSE coursework beyond the minimum required, and strong written application materials.
+
+Application Information
+The 2023 BS/MS application will open May 9th and close June 9th.
+
+A couple of notes about the application:
+
+We will contact your faculty recommenders after the application closes. You should talk to them in advance, but do not need to coordinate the actual recommendation process.
+You may not find a person you want to use as a reference in the drop down menu. If that is the case, let us know and we can solicit the recommendation from them directly.
+2023 Application Timeline
+May: Application opens May 9th
+June: Application closes June 9th
+Mid-late June through Mid July: Faculty recommenders submit feedback; BS/MS Admissions Committee reviews applications
+Mid-late July: Decisions sent
+Requirements
+Your application requires the following components:
+
+Statement of Purpose.  Recommended length: 750-1000 words.  Topics to address include: (1) Why are you interested in pursuing a combined BS/MS?  (2) What specific aspects of the program interest you, such as areas of study? (3) What makes you a good candidate for this program?
+References.  List 2 CSE faculty members or affiliate faculty as references.  You must have 2 references who can speak to your classwork and/or research abilities. It is courteous to ask faculty members before listing them as references.
+Transcripts:  Upload a copy of your UW unofficial transcript (use the "printer-friendly" version from MyUW).
+Resume:  You have the option to upload a current resume.
+MyCSE:  Confirm that your MyCSE profile is up-to-date, including scholarships, co-ops/internships, and research.
+There is no fee for students completing the initial CSE BS/MS application. Students admitted to the BS/MS program must complete the UW Grad School application and pay an application fee as well as an enrollment fee once they become a graduate student (due before tuition).

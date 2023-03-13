@@ -1,0 +1,31 @@
+
+AnimationThe BS and MS are separate degrees. Please note the following before we describe specific requirements:
+
+If admitted to the master's program while an undergraduate, you do not attain graduate student status until your bachelor's degree has been completed.
+
+You can start on your master's degree requirements while you are still an undergraduate: up to 12 credits towards your master's degree requirements earned after admission to the BS/MS program and prior to completion of your bachelor's degree can count towards your master's degree provided that courses are not used to fulfill any bachelor's degree requirement.
+Degree Requirements
+Students will complete their master's requirements primarily through a combination of approved coursework from our PhD-track masters courses, our Professional Masters Program courses, and 400-level courses.
+
+Students are required to take 40 credits total.  These credits must include:
+
+36 credits of approved graded 400-level core courses and 500-level courses except as substituted by research credit, as described below. Of these courses:
+
+At least 32 credits must be Computer Science and Engineering courses. Students who wish to substitute courses in other fields for Computer Science and Engineering courses may petition to do so by presenting a coherent course plan and written justification for this plan to the program advisor for approval by the start of their master's degree program.
+At least 20 credits must be from 500-level Computer Science and Engineering 4-credit graded courses or other approved Computer Science and Engineering graded coursework at the 500-level.
+
+Four (4) additional credits of Computer Science and Engineering research colloquia (519 or 520) or single-credit research seminars (590).
+
+Students may substitute up to 12 credits of CSE 600, which includes a final written report on your research, in place of graded Computer Science and Engineering courses in 1 (a) above. Of these, 4 credits of research may be substituted for graded credits in 1(b) above. Please see the "Thesis" section on the FAQ page for more details on this requirement.
+
+Subsequent to their admission to the master’s program, students must complete: 
+
+Either an approved internship/co-op or at least 3 credits of Computer Science and Engineering research.
+At least one approved course from the Computer Science and Engineering Integrated Project (Capstone) course list. 
+Courses taken prior to completion of your bachelor's degree may apply to your master's requirements only if all the following points are met:
+
+Courses fulfill masters requirements as outlined above
+Courses are taken after a student is admitted to the BS/MS program
+Credits do not satisfy any undergraduate requirements, such as departmental requirements or general elective credits
+Approved credits include all 400 level CSE Core courses and 500 level CSE courses
+A maximum of 12 graduate credits taken as an undergrad may apply to the masters
