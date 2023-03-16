@@ -1,14 +1,90 @@
+The Allen School (UW CSE) has a multitude of student groups that are organized and managed by current students. Membership for all of these groups are open to all Allen School students, and each organization hosts several events each year to help foster a close community amongst the student population.
 
-The Combined Bachelor's/Master's (BS/MS) program was designed so that students may complete both their Bachelor's of Science in CS or CE and their Master's of Science in CSE degrees in approximately five years of study. In reality, students complete the program in a variety of timelines depending on when they enter the Allen School and how many credits they are bringing in. The program is intended to allow increased breadth and depth of study to better prepare students for their careers and was designed with feedback from faculty, industry affiliates, and CSE students themselves.
+Allen School Student Groups
+Click on a Student Group name or logo to find out more information!
 
-Allen School BS/MS students earn a master's degree in approximately one year of courses beyond standard bachelor's requirements. Most students are admitted after finishing 300-level requirements in their junior year so they can plan their CSE senior and graduate requirements as a coherent two-year plan. The application process for the BS/MS program is competitive, and roughly 60 applicants are admitted each year. 
 
-The program accepts only currently enrolled UW Seattle CS/CE majors.
+Ability Group Logo	
+Ability
+Ability is an organization dedicated to spreading accessibility awareness and creating community for students with disabilities and their allies.
 
-Why a Combined BS/MS?
-The program was created with industry-bound students in mind. Both starting salary and long-term prospects may be improved with an advanced degree. The program may also be a good fit for students interested in teaching computer science at the college level; in addition to teaching assistant opportunities, some BS/MS students get the opportunity to instruct courses in the Allen School. Finally, some students considering a Ph.D may find BS/MS valuable (however, students should consider applying directly to Ph.D. programs if they are ready to submit a competitive application).
 
-Resources:
-For admissions and advising questions, please contact vgrad-advisor@cs.washington.edu
-G5PAC: Grad, VGrad, & Postdoc Advisory Council
-Student emails: vgrads-ugrads@cs for students who are stlil undergrads; vgrads@cs for grad students
+COM^2 Logo	
+ACE (Association for Computing Education)
+Association for Computing Education (ACE) focuses on building a community for students interested in the field of computing education. We provide resources and events to help students connect with TA opportunities, academia, and other computing education communities in the University of Washington.
+
+
+COM^2 Logo	
+COM2 (Computing Community)
+Computing Community @ the University of Washington is a UW RSO dedicated to building community in the CSE department, and we are the largest student-led organization at the Paul G. Allen School of Computer Science & Engineering. COM2 at the Allen School aims to bring the motivation and spirit of this organization to our school campus through career and academic support, mentorship, and community-building initiatives.
+
+
+Gen 1 Logo	
+GEN1
+GEN1 aims to celebrate and support the Allen School’s vibrant and diverse first-generation community by providing resources and a community to ensure academic, professional, and personal success.
+
+
+Minorities in Tech Logo	
+Minorities in Tech (MiT)
+Minorities in Tech supports underrepresented groups in the tech and industry and works to foster a more culturally inclusive CSE community. They are committed to creating an inclusive multicultural environment where differences are valued and respected.
+
+
+Q plus plus Logo	
+Q++
+Q++ is a group at the University of Washington dedicated to providing support and community for LGBTQIA+ individuals within the Allen School community.
+
+
+Student Advisory Council Logo	
+Student Advisory Council (SAC)
+The Student Advisory Council serves as a collective voice of students in the Allen School. The Council aims to address key issues in the Allen School including but not limited to: student wellness, diversity, curriculum development, and opportunities to engage in social good.
+
+
+WiC @ UW Logo	
+Women in Computing (WiC) @ UW
+Women in Computing at the University of Washington is a group of students in the Paul G. Allen School (of all genders and orientations) dedicated to cultivating a strong supportive community of women within the Allen School, to helping members succeed academically, socially and professionally, and to demonstrate the importance and necessity of diversity in the computing world.
+
+
+Student Groups Introduction Video
+Watch our Student Groups video, updated with Fall 2022! Note: We have expanded to include ACE, founded Winter 2023!
+
+
+
+Allen School Affiliate RSOs
+The following list includes our Affiliate Registered Student Organizations at the University of Washington. Allen School students are closely involved in these organizations, and can be great communities to get involved with! RSOs that are hoping to apply as Affiliates can fill out the linked application at the bottom of this page.
+
+
+DubHacks
+DubHacks is a tech and entrepreneurship non-profit in Seattle run by students at the University of Washington. We bring together students of all backgrounds to tackle the issues they are most passionate about. Let's build tomorrow together.
+
+
+Husky FOSS
+We are an organization exploring the realm of free and open source software and encouraging their use in daily life. We love to use Linux (distributions), learn something new about it every time we meet, and foster a sense of community among all Linux and FOSS users. join us on discord: https://discord.gg/mhqvbqXwrZ
+
+
+I2 (Interactive Intelligence)
+I2 is an environment which aims to create a community of project-driven, outcome-oriented students at the University of Washington interested in the intersections of reinforcement learning, embodied artificial intelligence, and neuroscience. Our goal is to make machines learn like humans.
+
+
+Project IF
+Project Indoor Farm hopes to spread awareness to sustainable and modern alternatives to conventional agriculture. Our student-run hydroponics farm harvests over 20 pounds of lettuce every quarter. We hope to give students a way to do hands-on sustainability work while being able to progress their own career development through interdisciplinary projects, such as applying embedded systems to automate farm maintenance and using computer vision to monitor growth rates.
+
+
+UW Blockchain
+Dedicated to exploring the latest blockchain developments and novel cryptocurrency applications. Collaborate with your peers to learn about investing, trading, and mining cryptocurrencies. Join our discord for more info about meetings, events, etc. : https://discord.gg/NwZtaDAfRX
+
+
+UWashington Formula Motorsports
+Here at UWashington Formula Motorsports, we design, build, test and compete with an electric formula-style race car. Everything that our club produces is done entirely in-house. We produce our own designs, perform our own machining and manufacture our own carbon fiber parts. Every year, we bring our finished product to competition!
+
+
+WOOF3D
+WOOF3D gives students hands-on experience with manufacturing and digital fabrication technologies—such as CAD, 3D-printing, scanning, CNCing, injection molding—through our community outreach events and/or joining our year-long projects. We welcome both novices and experts! Some of our past projects include experimenting with printers that can print with metals, silicone, and chocolate; designing and building a printer with a 1 cubic meter build volume; and scanning and casting mammoth bones to complete a skeleton at the Burke Museum.
+
+
+Starting a new Allen School Student Group
+Our Officially Endorsed Student Groups are Registered Student Organizations (RSOs) that are geared towards developing community specifically for the Allen School. However, students are always welcome to develop their own RSOs through the Student Activities Office. If an Allen School student wants to develop a new Student Group, please complete the application below. We accept applications on a rolling basis, but will prioritize applications received by the end of Week 7 of the current academic quarter.
+
+If you have questions please reach out to our Student Leadership Development Coordinator: EJ Pinera - epinera@cs.washington.edu
+
+
+here is a video on allen school student groups: https://www.youtube.com/watch?v=_H1VY1BJsb4&t=2s

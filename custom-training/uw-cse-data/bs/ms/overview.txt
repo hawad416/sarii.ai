@@ -1,0 +1,14 @@
+
+The Combined Bachelor's/Master's (BS/MS) program was designed so that students may complete both their Bachelor's of Science in CS or CE and their Master's of Science in CSE degrees in approximately five years of study. In reality, students complete the program in a variety of timelines depending on when they enter the Allen School and how many credits they are bringing in. The program is intended to allow increased breadth and depth of study to better prepare students for their careers and was designed with feedback from faculty, industry affiliates, and CSE students themselves.
+
+Allen School BS/MS students earn a master's degree in approximately one year of courses beyond standard bachelor's requirements. Most students are admitted after finishing 300-level requirements in their junior year so they can plan their CSE senior and graduate requirements as a coherent two-year plan. The application process for the BS/MS program is competitive, and roughly 60 applicants are admitted each year. 
+
+The program accepts only currently enrolled UW Seattle CS/CE majors.
+
+Why a Combined BS/MS?
+The program was created with industry-bound students in mind. Both starting salary and long-term prospects may be improved with an advanced degree. The program may also be a good fit for students interested in teaching computer science at the college level; in addition to teaching assistant opportunities, some BS/MS students get the opportunity to instruct courses in the Allen School. Finally, some students considering a Ph.D may find BS/MS valuable (however, students should consider applying directly to Ph.D. programs if they are ready to submit a competitive application).
+
+Resources:
+For admissions and advising questions, please contact vgrad-advisor@cs.washington.edu
+G5PAC: Grad, VGrad, & Postdoc Advisory Council
+Student emails: vgrads-ugrads@cs for students who are stlil undergrads; vgrads@cs for grad students
