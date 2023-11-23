@@ -1,5 +1,7 @@
 # sarii.ai | AI-Powered Search for University Documentation  -> CHECK OUT THE LANDING PAGE SITE HERE: https://qijocf7d8urd.umso.co 
 
+DEMO: https://hawad416.github.io/sarii.ai/ (currently broken as I tried to move something on the backend & dont have time to fix this right now) 
+
 AI-Powered Search for University Documentation.  
 
 university documentation is typically outdated, hard to search through, and hard to extract relevant data from. sarii.ai brings AI-Powered University documentation search.  
