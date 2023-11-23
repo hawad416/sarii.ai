@@ -2,7 +2,7 @@ import { Configuration, OpenAIApi } from "openai";
 import handler from "./apiRoute";
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "REMOVED API KEY",
 });
 const openai = new OpenAIApi(configuration);
 
