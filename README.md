@@ -4,7 +4,12 @@ DEMO: https://hawad416.github.io/sarii.ai/ (currently broken as I tried to move 
 
 AI-Powered Search for University Documentation.  
 
-university documentation is typically outdated, hard to search through, and hard to extract relevant data from.  let's fix that!
+university documentation is typically:
+a) outdated
+b) hard to search through
+c) hard to extract relevant data from.
+
+let's fix this!
 
 sarii.ai brings AI-Powered University documentation search. sarii ai simplifies the process by which University of Washington (UW) students gain access to crucial university information. we leverage state of the art fine-tuned language models ( technologies such as generative AI, gpt, llama-index, and web application tools like nextjs and react)  to offer a personalized and seamless user experience that enables students to obtain accurate, reliable, and timely answers to all their questions and concerns extracted directly from the university documentation.
 
