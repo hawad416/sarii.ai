@@ -16,8 +16,8 @@ export default async function (req, res) {
     return;
   }
 
-  const animal = req.body.animal || '';
-  if (animal.trim().length === 0) {
+  const curr = req.body.curr || '';
+  if (curr.trim().length === 0) {
     res.status(400).json({
       error: {
         message: "You need 90 credsss",
@@ -30,7 +30,7 @@ export default async function (req, res) {
     const FINE_TUNED_MODEL = "curie:ft-personal-2023-03-06-10-36-14"
     const completion = await openai.createCompletion({
       model: FINE_TUNED_MODEL,
-      prompt: generatePrompt(animal),
+      prompt: generatePrompt(curr),
       temperature: 0,
       max_tokens: 50,
     });
@@ -51,6 +51,6 @@ export default async function (req, res) {
   }
 }
 
-function generatePrompt(animal) {
-  return animal;
+function generatePrompt(curr) {
+  return curr;
 }
